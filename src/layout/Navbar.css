@@ -1,0 +1,10 @@
+.header__all{
+    width: 100%;
+    height: 41px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    font-size: 20px;
+}

@@ -1,0 +1,22 @@
+.cardd{
+    border: 5 px solid black;
+    width: 401px;
+}
+.all{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 30px;
+    /* margin-left: 40px;
+     */
+     margin-top: 20px;
+
+}
+.cardd{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
